@@ -1,4 +1,4 @@
-package com.thoughtworks.geometry.geometry;
+package com.thoughtworks.geometry;
 
 public class Main {
 
